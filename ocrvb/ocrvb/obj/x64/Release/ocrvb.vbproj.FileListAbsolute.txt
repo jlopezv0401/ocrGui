@@ -1,0 +1,15 @@
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\Interop.MWComUtil.dll
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\Interop.ocr.dll
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.vbproj.ResolveComReference.cache
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\bin\x64\Release\ocrvb.exe
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\bin\x64\Release\ocrvb.pdb
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\bin\x64\Release\ocrvb.xml
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\bin\x64\Release\Interop.MWComUtil.dll
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\bin\x64\Release\Interop.ocr.dll
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.Form1.resources
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.Resources.resources
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.exe
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.xml
+D:\Visual Studio 2008\Projects\ocrvb\ocrvb\obj\x64\Release\ocrvb.pdb
